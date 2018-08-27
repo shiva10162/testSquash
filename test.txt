@@ -1,2 +1,3 @@
-Test Squash
-
+1Test Squash
+Ading a line again
+#Modifying the text file
