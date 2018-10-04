@@ -1,3 +1,4 @@
 1Test Squash
 Ading a line again
 #Modifying the text file
+To join the video meeting, click this link: https://meet.google.com/vyo-pvqq-ztn
